@@ -1,4 +1,4 @@
-![SLACKSIDE](https://mksd.jp/SLACKSIDE_MD.gif "SAMPLE")
+![SLACKSIDE](https://mksd.jp/SLACKSIDE_r_MD.gif "SAMPLE")
 
 # ■ はじめに
 
