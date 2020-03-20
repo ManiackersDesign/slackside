@@ -1,4 +1,4 @@
-![SLACKSIDE](https://mksd.jp/SLACKSIDE_r_MD.gif "SAMPLE")
+![SLACKSIDE](https://mksd.jp/SLACKSIDE_MD.gif "SAMPLE")
 
 # ■ はじめに
 
@@ -44,8 +44,6 @@ font LAB / Fontographer 5.2J
 
 
 # ■ 更新履歴
-2020年3月21日 バージョン 1.0（名称変更のみ）
-
 2019年12月31日 バージョン 1.0
 
 
