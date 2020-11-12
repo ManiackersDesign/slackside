@@ -1,4 +1,4 @@
-Copyright 2020 Maniackers Design ( https://github.com/ManiackersDesign/slackside )
+Copyright 2020 The Slackside One Project Authors (https://github.com/ManiackersDesign/slackside), all rights reserved.
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.0.
